@@ -4,3 +4,4 @@ For this Data Repository, I am compiling different data projects that cover diff
 - Data import and cleaning
 - Data exploration and visualization
 - Data transformation (eg. dummy variables)
+- Line Graph/ Tiem Series
