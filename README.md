@@ -1,4 +1,4 @@
-# Data-Projects
+## DataCamp Projects
 
 As the scale and scope of datasets keeps increasing, the variety of statistical machine learning models is ever-growing. My DataCamp projects focuses on the most fundamental models, from their mathematical details to implementations, including:
 
